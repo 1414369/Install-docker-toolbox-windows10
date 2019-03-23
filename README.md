@@ -34,3 +34,6 @@ And then execute following command to control:
 And then execute following command to control:
 
 > docker version
+
+## Credit: 
+> https://stackoverflow.com/questions/40459280/docker-cannot-start-on-windows
